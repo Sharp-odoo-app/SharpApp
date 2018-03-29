@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<odoo>
+    <data>
+        <!-- Form -->
+        <record id="view_pricelist_security_account_pricelist_form" model="ir.ui.view">
+            <field name="name">pricelist_secuirty.product.pricelist.form</field>
+            <field name="model">product.pricelist</field>
+            <field name="inherit_id" ref="product.product_pricelist_view"/>
+            <field name="arch" type="xml">
+                <xpath expr="/form/sheet/group[1]" postition="after">
+                    <group string="Allowed Users">
+                        <field name="user_ids" widget="many2many_tags" no_label="1"/>
+                    </group>
+                </xpath>
+            </field>
+        </record>
+        
+    </data>
+</odoo>
