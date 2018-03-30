@@ -11,6 +11,8 @@
 
     'author': "Sharp IT",
     'website': "www.sharp4it.com",
+    'price': 40.00, 
+
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml

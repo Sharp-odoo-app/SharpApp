@@ -3,6 +3,7 @@
     'version': '1.0',
     'author': 'Sharp IT',
     'website': 'www.sharp4it.com',
+    'price': 20.00, 
     'category': 'Sales',
     'summary': '',
     'description': """
