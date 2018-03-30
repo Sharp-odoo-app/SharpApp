@@ -5,6 +5,7 @@
     'author': 'Sharp IT',
     'website': 'www.sharp4it.com',
     'price': 100.00, 
+    'currency': 'EUR',
     'category': 'Sales',
     'description': '''
     Create a products with pack and pass it to sale order, make sale order line

@@ -12,6 +12,8 @@
     'author': "Sharp IT",
     'website': "www.sharp4it.com",
     'price': 40.00, 
+    'currency': 'EUR',     
+    
 
 
     # Categories can be used to filter modules in modules listing
