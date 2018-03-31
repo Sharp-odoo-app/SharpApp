@@ -1,5 +1,5 @@
 {
-    'name': 'PriceList Security',
+    'name': 'PriceList access',
     'version': '0.1',
     'author': 'Sharp IT',
     'website': 'www.sharp4it.com',
@@ -8,10 +8,7 @@
     'category': 'Sales',
     'summary': '',
     'description': """
-PriceList Security
-================
-It creates a many2many field between PriceLists and users. If you set Pricelists to User, then this PriceLists will be only seen by selected users.
-This fields are only seen by users with "access right management"
+it is managment users who can access to pricelist and which pricelist can be show to each user"
     """,
     'images': [
     ],
