@@ -1,6 +1,6 @@
 {
     'name': 'PriceList Security',
-    'version': '1.0',
+    'version': '0.1',
     'author': 'Sharp IT',
     'website': 'www.sharp4it.com',
     'price': 20.00,
@@ -28,7 +28,5 @@ This fields are only seen by users with "access right management"
     ],
     'test': [
     ],
-    'installable': True,
-    'auto_install': False,
     'application': False,
 }
