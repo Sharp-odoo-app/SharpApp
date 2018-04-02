@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Product Pack Solution',
+    'name': 'Product Pack With Variant',
     'version': '1.0',
     'author': 'Sharp IT',
     'website': 'www.sharp4it.com',

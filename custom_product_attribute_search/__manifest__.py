@@ -6,7 +6,7 @@
         Generate Name with Varient and Search by Varient """,
 
     'description': """
-        Long description of module's purpose
+        roduct Attribute Based Search with varients
     """,
 
     'author': "Sharp IT",
