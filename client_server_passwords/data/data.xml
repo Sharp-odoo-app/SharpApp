@@ -1,0 +1,10 @@
+<odoo>
+    <data>
+        <record id="servers_password_manager_group" model="res.groups">
+            <field name="name">Servers Password Manager</field>
+        </record>
+        <record id="servers_password_user_group" model="res.groups">
+            <field name="name">Servers Password user</field>
+        </record>
+    </data>
+</odoo>

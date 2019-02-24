@@ -26,14 +26,14 @@
     # for the full list
     'category': 'sale',
     'version': '0.1',
-    'price': '0.0',
-    'currency': 'EUR',
+    'price': 'Free',
     # any module necessary for this one to work correctly
     'depends': ['sale_management'],
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
+        'data/data.xml',
+        'security/ir.model.access.csv',
         'views/views.xml',
         'views/templates.xml',
     ],
