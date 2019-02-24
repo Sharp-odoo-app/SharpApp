@@ -27,6 +27,7 @@
     'category': 'sale',
     'version': '0.1',
     'price': '0.0',
+    'currency': 'EUR',
     # any module necessary for this one to work correctly
     'depends': ['sale_management'],
 
