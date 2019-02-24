@@ -26,7 +26,7 @@
     # for the full list
     'category': 'sale',
     'version': '0.1',
-    'price': 'Free',
+    'price': '0.0',
     # any module necessary for this one to work correctly
     'depends': ['sale_management'],
 
