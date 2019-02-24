@@ -1,3 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_client_server_passwords_customer_server_data,client_server_passwords.customer_server_data,model_customer_server_data,servers_password_manager_group,1,1,1,1
-access_client_server_passwords_customer_server_data,client_server_passwords.customer_server_data,model_customer_server_data,servers_password_user_group,1,0,0,0
